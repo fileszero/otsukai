@@ -116364,7 +116364,7 @@ n_(a,b){var s=null
 return new A.zf(b.ds($.baE(),t.cb),"Shopping List App",A.AY(s,A.b_w(B.ai,s,s,B.Zs),!0),s)}}
 A.cs.prototype={
 dE(){var s=this
-return A.a8(["list_id",s.b,"name",s.c,"notes",s.d,"is_checked",s.e,"quantity",s.f,"unit_price",s.r,"image_url",s.y],t.N,t.z)},
+return A.a8(["id",s.a,"list_id",s.b,"name",s.c,"notes",s.d,"is_checked",s.e,"quantity",s.f,"unit_price",s.r,"image_url",s.y],t.N,t.z)},
 zX(a,b){var s=this,r=a==null?s.e:a,q=b==null?s.f:b
 return new A.cs(s.a,s.b,s.c,s.d,r,q,s.r,s.w,s.x,s.y,s.z,s.Q)},
 aEq(a){return this.zX(null,a)},
